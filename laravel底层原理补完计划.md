@@ -1,0 +1,2 @@
+- [x] Redis Queue [资料](https://learnku.com/articles/4169/analysis-of-laravel-message-queue)
+- [ ] Execption Handler
