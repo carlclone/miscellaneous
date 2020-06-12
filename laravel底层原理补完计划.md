@@ -14,3 +14,7 @@
 - [ ] Testcase 阅读
 
 - [ ] 一个 Demo框架
+
+
+
+[psr-0 deprecated](https://groups.google.com/forum/#!topic/php-fig/feDfmLvYJuc)
